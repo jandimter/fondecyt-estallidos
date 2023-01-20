@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: estallidos
+Version: 0.1.0
+Summary: Esta librería contiene funciones útiles para la investigación Fondecyt Estallidos. Las funciones base provienen de la librería newsanalysislib de Benjamín Correa.
+Author:
+License: CC

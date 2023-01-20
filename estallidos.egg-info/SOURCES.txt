@@ -1,0 +1,9 @@
+README.md
+setup.py
+estallidos/__init__.py
+estallidos/detect_keywords.py
+estallidos.egg-info/PKG-INFO
+estallidos.egg-info/SOURCES.txt
+estallidos.egg-info/dependency_links.txt
+estallidos.egg-info/requires.txt
+estallidos.egg-info/top_level.txt
